@@ -68,7 +68,7 @@ Made With 💕 By @kashir_bots
     UPGRADE_TEXT = "<b>No preminum plans available in this bot </b>  /help for Details"
     FORMAT_SELECTION = "Now Select The Desired Format or File 🗄️ Size to Upload"
     SET_CUSTOM_USERNAME_PASSWORD = """"""
-    NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    NOYES_URL = "@slow URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_FILE = "📥 Downloading  File "
     UPLOAD_FILE = " UploadinG 📤 \n\n To  transfer.sh "
     ANNO_UPLOAD = " UploadinG📤 \n\n To  anonfiles.com "
