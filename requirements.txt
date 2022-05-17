@@ -12,7 +12,7 @@ motor
 aiofiles
 dnspython
 psutil
-pyrogram
+pyrogram==1.4.12
 tgcrypto
 yt-dlp
 
